@@ -7,6 +7,7 @@ public class Practice2 {
 		System.out.println("Changes to github");
 		System.out.println("In branch");
 		System.out.println("From ATE");
+		System.out.println("From FE");
 	}
 
 }
